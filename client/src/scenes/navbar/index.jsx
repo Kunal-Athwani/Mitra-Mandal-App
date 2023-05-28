@@ -56,7 +56,7 @@ const Navbar = () => {
             },
           }}
         >
-          Sociopedia
+          Mitra Mandal
         </Typography>
         {isNonMobileScreens && (
           <FlexBetween
